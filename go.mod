@@ -1,4 +1,4 @@
-module github.com/alibabacloud-go/tea
+module github.com/hartono-wen/tea
 
 go 1.14
 
